@@ -32,11 +32,24 @@
         ]
       }
     ],
+    "markdownEngineName": "markdig",
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "uhfHeaderId":"MSDocsHeader-Xamarin",
       "breadcrumb_path": "/xamarin/community-toolkit/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "manager": "crdun",
+      "audience": "developer",
+      "ms.topic": "article",
+      "ms.technology": "xamarin",
+      "ms.prod": "xamarin",
+      "searchScope": ["Xamarin"],
+
+      "feedback_system": "GitHub",
+			"feedback_github_repo": "MicrosoftDocs/XamarinCommunityToolkitDocs",
+			"feedback_product_url": "https://forums.xamarin.com/"
+
     },
     "fileMetadata": {},
     "template": [],
